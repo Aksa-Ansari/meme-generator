@@ -12,8 +12,8 @@ A fun Meme Generator app built using HTML ,CSS and JavaScript which fetches rand
 - CSS3
 - JavaScript (Fetch API)
 
-  ## Live Demo
-👉 [Click here to try it out](https://aksa-ansari.github.io/meme-generator/) 
+## Live Demo
+[Click here to try it out](https://aksa-ansari.github.io/meme-generator/) 
 
 ## Author
  Aksa Ansari
